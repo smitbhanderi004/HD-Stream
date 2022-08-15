@@ -12,11 +12,18 @@
    "Admob_Interstitial":"ca-app-pub-3940256099942544/1031173712",
    "Admob_Native":"ca-app-pub-3940256099942544/2247296110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "topon_showStatus":"1",
+   "topon_showStatus":"0",
    "topon_appid":"a5aa1f9deda26d",
    "topon_appkey":"4f7b9ac17decb9babec83aac078742c7",
    "topon_banner":"",
    "topon_inter1":"",
    "topon_inter2":"",
-   "topon_native":""
+   "topon_native":"",
+   "FB_showAdStatus":"1",
+   "FB_bannernative":"0",
+   "FB_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_inter2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_nativebanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 }
